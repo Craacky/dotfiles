@@ -1,5 +1,5 @@
 # dotfiles
 
-![image](https://github.com/Craacky/dotfiles/assets/91139540/ad89b3fe-e281-45a0-8067-8841a905bcfa)
-![image](https://github.com/Craacky/dotfiles/assets/91139540/2aab57ce-faf0-4247-9b98-7074d1ef84c3)
-![image](https://github.com/Craacky/dotfiles/assets/91139540/fc15572e-0a05-4200-a753-e14904661fee)
+![20231119_18h40m51s_grim](https://github.com/Craacky/dotfiles/assets/91139540/ef640764-0223-48e6-a39c-2e4db0b781dd)
+![20231119_18h33m36s_grim](https://github.com/Craacky/dotfiles/assets/91139540/81e65b18-e871-42f6-8af4-b00d7b40524f)
+![20231119_18h42m18s_grim](https://github.com/Craacky/dotfiles/assets/91139540/66ce7744-b63a-48e3-bb6f-ea5d6560103a)
